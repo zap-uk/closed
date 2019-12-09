@@ -1,0 +1,513 @@
+.body {
+  height: 100%;
+  font-family: Varela, sans-serif;
+}
+
+.section {
+  position: relative;
+  overflow: hidden;
+  height: 75%;
+}
+
+.navbar {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 100%;
+}
+
+.imagediv {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  max-width: 1400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.skylineimg {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  max-width: none;
+}
+
+.navrow {
+  display: block;
+  height: 120px;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navcolright {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.navcolleft {
+  height: 100%;
+}
+
+.navlink {
+  padding: 5px 15px;
+  color: #169cee;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.highcranediv {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 435px;
+  height: 554px;
+}
+
+.highcraneimg {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  padding-left: 30px;
+}
+
+.highcranepivot {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  padding-left: 30px;
+}
+
+.highcraneline {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  padding-left: 30px;
+}
+
+.highcranemask {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 49%;
+}
+
+.highcraneplayimg {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  padding-left: 30px;
+}
+
+.redphonebgdiv {
+  position: absolute;
+  left: 54.3%;
+  bottom: 4%;
+  width: 18.5%;
+  height: 25.5%;
+  border-radius: 2px;
+  background-color: #ff4470;
+}
+
+.redphoneelementswrapper {
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  bottom: 5%;
+  height: 37%;
+}
+
+.redphonerow {
+  height: 40%;
+}
+
+.redphonecol1 {
+  height: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.redphonecol2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.redphonecol3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.redphonesmallsquare {
+  width: 89%;
+  height: 100%;
+  border-radius: 3px;
+  background-color: #db3b61;
+}
+
+.redphonethindiv1 {
+  display: block;
+  width: 100%;
+  height: 23%;
+  margin-top: 6.5%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 3px;
+  background-color: #db3b61;
+}
+
+.section2 {
+  min-height: 100%;
+  padding-top: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.redphonethindiv2 {
+  display: block;
+  width: 100%;
+  height: 23%;
+  margin-top: 6.5%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 3px;
+  background-color: #db3b61;
+}
+
+.semidiv {
+  position: relative;
+  display: block;
+  width: 450px;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.semiimg {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+
+.truckline {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.semianimationdiv {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.pushimg {
+  position: absolute;
+  left: 7%;
+  bottom: 55px;
+  width: 16%;
+}
+
+.tankcranediv {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 450px;
+  height: 100%;
+}
+
+.greenphoneimg {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+
+.droppushanimationdiv {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.pushimg2 {
+  position: absolute;
+  left: 25%;
+  bottom: 86px;
+  width: 15%;
+}
+
+.truckline2 {
+  position: absolute;
+  left: 17.5%;
+  bottom: 27px;
+}
+
+.greenphonebgdiv {
+  position: absolute;
+  left: 20%;
+  bottom: 31px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 23.5%;
+  height: 167px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: hsla(0, 0%, 100%, 0.13);
+}
+
+.greenphonecircle {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  border-radius: 200px;
+  background-color: #80d599;
+}
+
+.redphoneimg2 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.tankcraneanimationdiv {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.redphonebgdiv2 {
+  position: absolute;
+  right: 40%;
+  bottom: 32px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  width: 22.2%;
+  height: 138px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #00385e;
+}
+
+.redphonecirclediv {
+  width: 80px;
+  height: 80px;
+  border-radius: 200px;
+  background-color: #555574;
+}
+
+.tankcraneimg {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.tankcranemask {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 309px;
+}
+
+.tankcraneline {
+  position: absolute;
+  right: -1.3%;
+  bottom: 53px;
+}
+
+.analyticscircleimg {
+  position: absolute;
+  right: 0.5%;
+  bottom: -245px;
+}
+
+.h1 {
+  position: relative;
+  top: 16%;
+  color: rgba(0, 0, 0, 0.56);
+  font-size: 54px;
+  line-height: 75px;
+  text-align: center;
+  cursor: default;
+}
+
+.contentwrapper {
+  display: block;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 40px 50px;
+  border-radius: 30px;
+  box-shadow: 0 5px 50px -8px rgba(0, 0, 0, 0.2);
+}
+
+.bodyh1 {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.bigbracket {
+  position: relative;
+  top: 14px;
+  font-size: 104px;
+  font-weight: 400;
+}
+
+.p {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.field-label {
+  text-align: center;
+}
+
+.text-field {
+  text-align: center;
+}
+
+.submit-button {
+  display: inline-block;
+  text-align: left;
+}
+
+html.w-mod-js *[data-ix="highcranelineinteraction"] {
+  -webkit-transform: translate(0px, -25%);
+  -ms-transform: translate(0px, -25%);
+  transform: translate(0px, -25%);
+}
+
+html.w-mod-js *[data-ix="new-interaction"] {
+  opacity: 0;
+}
+
+html.w-mod-js *[data-ix="redphonesquare1"] {
+  opacity: 0;
+  -webkit-transform: rotate(45deg) scale(1.19, 1.19);
+  -ms-transform: rotate(45deg) scale(1.19, 1.19);
+  transform: rotate(45deg) scale(1.19, 1.19);
+}
+
+html.w-mod-js *[data-ix="redphonesquare-2"] {
+  opacity: 0;
+  -webkit-transform: rotate(45deg) scale(1.19, 1.19);
+  -ms-transform: rotate(45deg) scale(1.19, 1.19);
+  transform: rotate(45deg) scale(1.19, 1.19);
+}
+
+html.w-mod-js *[data-ix="redphonesquare-3"] {
+  opacity: 0;
+  -webkit-transform: rotate(45deg) scale(1.19, 1.19);
+  -ms-transform: rotate(45deg) scale(1.19, 1.19);
+  transform: rotate(45deg) scale(1.19, 1.19);
+}
+
+html.w-mod-js *[data-ix="redphonethindiv-1"] {
+  opacity: 0;
+  width: 0px;
+}
+
+html.w-mod-js *[data-ix="redphonethindiv-2"] {
+  opacity: 0;
+  width: 0px;
+}
+
+html.w-mod-js *[data-ix="truckline"] {
+  -webkit-transform: translate(0px, -76%);
+  -ms-transform: translate(0px, -76%);
+  transform: translate(0px, -76%);
+}
+
+html.w-mod-js *[data-ix="trucklinedown2"] {
+  -webkit-transform: translate(0px, -100%);
+  -ms-transform: translate(0px, -100%);
+  transform: translate(0px, -100%);
+}
+
+html.w-mod-js *[data-ix="greencircleanimation"] {
+  opacity: 0;
+  -webkit-transform: scale(0.5, 0.5);
+  -ms-transform: scale(0.5, 0.5);
+  transform: scale(0.5, 0.5);
+}
+
+html.w-mod-js *[data-ix="redcircleanimation"] {
+  opacity: 0;
+  -webkit-transform: scale(0.5, 0.5);
+  -ms-transform: scale(0.5, 0.5);
+  transform: scale(0.5, 0.5);
+}
+
+html.w-mod-js *[data-ix="tankcranedivanimation"] {
+  -webkit-transform: translate(100%, 0px);
+  -ms-transform: translate(100%, 0px);
+  transform: translate(100%, 0px);
+}
+
